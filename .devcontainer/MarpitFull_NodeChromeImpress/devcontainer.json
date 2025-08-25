@@ -1,0 +1,17 @@
+{
+  "name": "Marpit Markdown with Chrome and Libreoffice Impress",
+  "build": { "dockerfile": "Dockerfile" },
+  "remoteUser": "node",
+  	// Configure tool-specific properties.
+	"customizations": {
+		// Configure properties specific to VS Code.
+		"vscode": {			
+			// Add the IDs of extensions you want installed when the container is created.
+			"extensions": [
+				"yzhang.markdown-all-in-one",
+				"bierner.github-markdown-preview",
+				"marp-team.marp-vscode"
+			]
+		}
+	}
+}
