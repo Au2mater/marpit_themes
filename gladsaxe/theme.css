@@ -1,0 +1,22 @@
+/* @theme gladsaxe */
+@import 'default'; /* Or 'uncover', 'gaia' */
+
+/* Overlay full-slide transparent image */
+
+
+section {
+  background: url('themes/logo.png') no-repeat bottom right;
+  background-color: white;
+  background-size: contain;
+  pointer-events: none; /* ensure it's not clickable */
+  z-index: 999;
+}
+
+header, .marp-header {
+  width: 100% !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  text-align: center !important;
+}
+
