@@ -2,6 +2,7 @@
 {
   "markdown.marp.themes": [
     "https://raw.githubusercontent.com/Au2mater/marpit_themes/5013ce0967180c5c71b35e318b8c2f1fccb52d8a/gladsaxe/theme.css",
+    "https://raw.githubusercontent.com/rnd195/marp-community-themes/live/themes/gradient.css",
     "https://cunhapaulo.github.io/style/arendt.css",
     "https://cunhapaulo.github.io/style/descartes.css",
     "https://cunhapaulo.github.io/style/einstein.css",
