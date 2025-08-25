@@ -5,7 +5,7 @@
 
 
 section {
-  background: url('themes/logo.png') no-repeat bottom right;
+  background: url('https://github.com/Au2mater/marpit_themes/blob/main/gladsaxe/logo.png?raw=true') no-repeat bottom right;
   background-color: white;
   background-size: contain;
   pointer-events: none; /* ensure it's not clickable */
