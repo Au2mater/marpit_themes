@@ -26,5 +26,6 @@
     "https://cunhapaulo.github.io/style/weber.css",
   ],
   "markdown.marp.html":"all",
-  "markdown.marp.pptx.editable": "smart"
+  "markdown.marp.pptx.editable": "smart",
+  "markdown.marp.exportAutoOpen": false
 }
