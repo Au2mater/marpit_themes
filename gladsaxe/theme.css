@@ -20,11 +20,16 @@ header, .marp-header {
   text-align: center !important;
 }
 
-footer {
-  width: 100% !important;
+footer, .marp-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100vw !important;
   display: flex !important;
   justify-content: center !important;
   align-items: center !important;
   text-align: center !important;
+  background: transparent;
+  z-index: 1000;
+  pointer-events: none;
 }
-
