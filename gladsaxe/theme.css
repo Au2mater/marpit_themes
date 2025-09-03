@@ -20,3 +20,11 @@ header, .marp-header {
   text-align: center !important;
 }
 
+footer, .marp-footer {
+  width: 100% !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  text-align: center !important;
+}
+
